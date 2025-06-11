@@ -8,7 +8,7 @@
     "vue",
     "react",
     "node",
-    "bachelor's degree"
+    "master's CS degree"
   ],
   "homepage": "https://kopyl.dev"
 }
